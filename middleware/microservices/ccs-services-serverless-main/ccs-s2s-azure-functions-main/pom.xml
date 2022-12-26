@@ -15,7 +15,6 @@
 	<name>CCS S2S Azure Functions Main</name>
 	<description>Car Charing Station Serverless (CCSS) Azure Functions Main</description>
 	<properties>
-		<java.version>17</java.version>
 		<spring-cloud.version>2022.0.0</spring-cloud.version>
 	</properties>
 	<dependencyManagement>
