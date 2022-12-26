@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="917badcf-6c45-46f2-a804-eb3e81ecbffd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ccs-s2s-azure-fns-car-in-events/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ccs-s2s-azure-fns-car-in-events/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ccs-s2s-azure-fns-car-out-events/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ccs-s2s-azure-fns-car-out-events/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
